@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.env
+.venv/
+env/
+myvenv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Docker
+docker-compose.override.yml
+
+# Kubernetes
+*.kubeconfig
+
+# Secrets
+*.key
+*.pem
+*.crt
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Data
+*.db
+*.sqlite
+*.dump
+
+# Logs
+*.log
+logs/
